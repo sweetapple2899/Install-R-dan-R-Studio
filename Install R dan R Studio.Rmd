@@ -1,5 +1,5 @@
 ---
-title: "Instal R dan R Studio di Linux ubuntu 18.04"
+title: "Install R dan R Studio di Linux ubuntu 18.04"
 output: github_document
 ---
 
