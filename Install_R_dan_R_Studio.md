@@ -1,4 +1,4 @@
-Instal R dan R Studio di Linux ubuntu 18.04
+Install R dan R Studio di Linux ubuntu 18.04
 ================
 
 Untuk dapat menggunakan bahasa pemrograman R, maka terlebih dahulu harus menginstall [Program R](https://cran.r-project.org/) pada komputer. Dan Untuk mempermudah dalam menggunakan bahasa pemrograman R disarankan untuk menginstall IDE (Integrated Development Environment). Salah satu IDE untuk bahasa pemrograman R yang sudah sangat populer adalah [R Studio](https://www.rstudio.com/). Di bawah ini adalah langkah-lankah untuk menginstall Program R dan R Studio:
@@ -8,8 +8,8 @@ Prerequisite
 
 Sebelum Menginstall Program R dan R Studio pastikan hal-hal berikut ini:
 
--   Ubuntu 18.04 LTS sudah terinstal, dan
--   Komputer dapat terkoneksi dengan internet.
+-   Ubuntu 18.04 LTS sudah terinstal
+-   Komputer dapat terkoneksi dengan internet, dan
 -   Bisa menggunakan perintah-perintah dasar pada terminal linux seperti cara untuk berpindah directory dan sebagainya.
 
 Install Program R
