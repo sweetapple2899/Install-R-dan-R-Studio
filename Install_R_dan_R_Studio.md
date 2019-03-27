@@ -48,4 +48,5 @@ Install R Studio
 -   Setelah terdownload, masuk kembali ke terminal dan masuk ke directory atau tempat penyimpanan hasil download yang berada pada directory Downloads, dan ketikan perintah **cd Downloads**.
 -   Sebelum menginstal R Studio terlebih dahulu install dependencies dengan mengetikan perintah **sudo apt-get install libjpeg62**.
 -   Setelah menginstall dependencies, ketikan perintah **sudo dpkg -i *nama file hasil download***.
+-   Terakhir ketik perintah **sudo apt-get install -f**.
 -   Selesai dan R Studio sudah dapat digunakan.
